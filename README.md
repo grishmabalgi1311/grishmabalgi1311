@@ -22,7 +22,7 @@ I build mechanisms, connect sensors and actuators, and write the software that b
 
 Graduate research at NYU’s Prema Lab. Previous engineering internship at Schneider Electric, 2024–2025. **Open to full-time engineering opportunities from May 2027.**
 
-[All 14 project case studies and source folders →](https://github.com/grishmabalgi1311/engineering-projects)
+[Explore 20 projects: source collections and CV-documented summaries →](https://github.com/grishmabalgi1311/engineering-projects)
 
 ## Recognition
 
